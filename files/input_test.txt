@@ -1,0 +1,2 @@
+0.1 5.2 100 3 forward_euler 1.1 2.0 -2.1
+t_square
